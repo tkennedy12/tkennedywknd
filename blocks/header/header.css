@@ -20,7 +20,7 @@ header nav {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  color: black;
 }
 
 header nav[aria-expanded='true'] {
